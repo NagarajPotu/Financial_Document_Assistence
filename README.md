@@ -21,14 +21,14 @@ The app sends this context + your question to a local language model (like LLaMA
 
 🖥️ Demo Screenshot
 
-(Add a screenshot here if you'd like)
+<img width="1835" height="963" alt="image" src="https://github.com/user-attachments/assets/bbdbad1d-71a6-40a7-96f1-9b8d213b3ccd" />
+
 
 📦 Project Structure
 financial-qa-app/
 ├── app.py             # Main Streamlit app
 ├── extractor.py       # PDF and Excel data extractors
 ├── requirements.txt   # Python dependencies
-├── .gitignore         # Files to ignore in Git
 ├── README.md          # You're reading it!
 
 🛠️ Requirements
@@ -177,3 +177,9 @@ This project is open-source and free to use. Attribution appreciated.
 Feel free to fork the project and submit a pull request if you'd like to improve or extend it!
 
 👨‍💻 Made with ❤️ using Streamlit + Ollama
+
+📧 Contact
+
+Created by Nagaraj Potu
+
+📩 Email: nagarajpotu@gmail.com
